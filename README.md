@@ -18,4 +18,4 @@
 
 2.2 [dell 安装 nvidia 驱动][]
 
-[dell 安装 nvidia ]:https://github.com/Cyber-SiKu/NoteBook/issues/4
+[dell 安装 nvidia 驱动]:https://github.com/Cyber-SiKu/NoteBook/issues/4
