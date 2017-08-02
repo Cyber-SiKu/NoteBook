@@ -23,3 +23,9 @@
 2.3 [修改grub背景][]
 
 [修改grub背景]:https://github.com/Cyber-SiKu/NoteBook/issues/5
+
+## 3. git
+
+3.1 [远程仓库][]
+
+[远程仓库]:https://github.com/Cyber-SiKu/NoteBook/issues/6
