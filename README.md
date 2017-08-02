@@ -22,4 +22,4 @@
 
 2.3 [修改grub背景][]
 
-[修改gru背景]:https://github.com/Cyber-SiKu/NoteBook/issues/5
+[修改grub背景]:https://github.com/Cyber-SiKu/NoteBook/issues/5
