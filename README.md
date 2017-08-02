@@ -19,3 +19,6 @@
 2.2 [dell 安装 nvidia 驱动][]
 
 [dell 安装 nvidia 驱动]:https://github.com/Cyber-SiKu/NoteBook/issues/4
+
+2.3 [修改grub背景][]
+[修改gru背景]:https://github.com/Cyber-SiKu/NoteBook/issues/5
