@@ -20,9 +20,14 @@
 
 [dell 安装 nvidia 驱动]:https://github.com/Cyber-SiKu/NoteBook/issues/4
 
+
 2.3 [修改grub背景][]
 
 [修改grub背景]:https://github.com/Cyber-SiKu/NoteBook/issues/5
+
+2.4 [Ubuntu16.04 & Win10 时间差][]
+
+[Ubuntu16.04 & Win10 时间差]:https://github.com/Cyber-SiKu/NoteBook/issues/7
 
 ## 3. git
 
