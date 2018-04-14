@@ -29,6 +29,9 @@
 
 [Ubuntu16.04 & Win10 时间差]:https://github.com/Cyber-SiKu/NoteBook/issues/7
 
+2.5 [ubuntu16.04 安装 tensorflow + nivdia驱动]
+[ubuntu16.04 安装 tensorflow + nivdia驱动]:https://github.com/Cyber-SiKu/NoteBook/issues/8
+
 ## 3. git
 
 3.1 [远程仓库][]
