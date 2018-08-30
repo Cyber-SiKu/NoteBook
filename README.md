@@ -40,9 +40,5 @@
 [远程仓库]:https://github.com/Cyber-SiKu/NoteBook/issues/6
 
 ## 4. vnc
-
-在win平台使用vnc-viewer 连接linux gnome的vnc server时会出现 unable to connect to vnc Server using your chosen security setting...
-turn off vino encryption
-```
-gsettings set org.gnome.Vino require-encryption false
-```
+[vnc(win->linux]
+[vnc(win->linux]:https://github.com/Cyber-SiKu/NoteBook/issues/9
