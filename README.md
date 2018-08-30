@@ -40,5 +40,6 @@
 [远程仓库]:https://github.com/Cyber-SiKu/NoteBook/issues/6
 
 ## 4. vnc
-[vnc(win->linux]
+[vnc(win->linux][]
+
 [vnc(win->linux]:https://github.com/Cyber-SiKu/NoteBook/issues/9
