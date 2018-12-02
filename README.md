@@ -9,7 +9,9 @@
 1.2 [QFileDialog 打开文件夹][]
 
 [QFileDialog 打开文件夹]:https://github.com/Cyber-SiKu/NoteBook/issues/2
+
 1.3 [加快Qt的编译速度][]
+
 [加快Qt的编译速度]:https://github.com/Cyber-SiKu/NoteBook/issues/10
 
 ## 2. ubuntu 16.04
